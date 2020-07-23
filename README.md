@@ -23,7 +23,7 @@ install_github("QingCheng0218/MR.Corr2")
 
 Usage
 =========
-The ['MR.Corr2' vignette](https://github.com/QingCheng0218/MMR.Corr2/blob/master/vignettes/MR.Corr2.pdf) will provide a good start point for two-sample Mendelian randomization analysis using **MR.Corr2** package. 
+The ['MR.Corr2' vignette](https://github.com/QingCheng0218/MR.Corr2/blob/master/vignettes/MR.Corr2.pdf) will provide a good start point for two-sample Mendelian randomization analysis using **MR.Corr2** package. 
 
 References
 ==========
