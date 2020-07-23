@@ -1,7 +1,7 @@
-MR.Corr2
+MR.Corr<sup>2<sup>
 =======
 
-**MR.Corr2** is a package for two-sample Mendelian randomization for  using correlated instrumental variants  accounting correlated horizontal pleiotropy (MR-Corr$^2$).
+**MR.Corr2** is a package for two-sample Mendelian randomization for  using correlated instrumental variants  accounting correlated horizontal pleiotropy (MR-Corr<sup>2<sup>).
 
 Installation
 ============
