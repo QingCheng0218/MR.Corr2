@@ -32,4 +32,4 @@ Qing Cheng, Baoluo Sun, Yingcun Xia, Jin Liu<sup>+</sup>. (2020) Accounting for 
 Development
 ===========
 
-This package is developed and maintained by Qing Cheng (qing.cheng@duke-nus.edu.sg). 
+This package is developed and maintained by Qing Cheng (qingcheng0218@gmail.com). 
