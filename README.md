@@ -27,7 +27,7 @@ The ['MR.Corr2' vignette](https://github.com/QingCheng0218/MR.Corr2/blob/master/
 
 References
 ==========
-Qing Cheng, Tingting Qiu, Xiaoran Chai, Baoluo Sun, Yingcun Xia, Xingjie<sup>+</sup>, ShiJin Liu<sup>+</sup>. (2021) [MR-Corr$^$2: a two-sample Mendelian randomization method that accounts for correlated horizontal pleiotropy using correlated instrumental variants.](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab646/6367765)
+Qing Cheng, Tingting Qiu, Xiaoran Chai, Baoluo Sun, Yingcun Xia, Xingjie Shi<sup>+</sup>, Jin Liu<sup>+</sup>. (2021) [MR-Corr$^$2: a two-sample Mendelian randomization method that accounts for correlated horizontal pleiotropy using correlated instrumental variants.](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab646/6367765)
 
 Development
 ===========
